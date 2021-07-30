@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-r-app/static/css/main.da93b759.chunk.css",
+    "main.js": "/my-r-app/static/js/main.a90b6bba.chunk.js",
+    "main.js.map": "/my-r-app/static/js/main.a90b6bba.chunk.js.map",
+    "runtime-main.js": "/my-r-app/static/js/runtime-main.9d1cf2ec.js",
+    "runtime-main.js.map": "/my-r-app/static/js/runtime-main.9d1cf2ec.js.map",
+    "static/css/2.a3e791ed.chunk.css": "/my-r-app/static/css/2.a3e791ed.chunk.css",
+    "static/js/2.8f7a7866.chunk.js": "/my-r-app/static/js/2.8f7a7866.chunk.js",
+    "static/js/2.8f7a7866.chunk.js.map": "/my-r-app/static/js/2.8f7a7866.chunk.js.map",
+    "static/js/3.bb5f4f56.chunk.js": "/my-r-app/static/js/3.bb5f4f56.chunk.js",
+    "static/js/3.bb5f4f56.chunk.js.map": "/my-r-app/static/js/3.bb5f4f56.chunk.js.map",
+    "index.html": "/my-r-app/index.html",
+    "static/css/2.a3e791ed.chunk.css.map": "/my-r-app/static/css/2.a3e791ed.chunk.css.map",
+    "static/css/main.da93b759.chunk.css.map": "/my-r-app/static/css/main.da93b759.chunk.css.map",
+    "static/js/2.8f7a7866.chunk.js.LICENSE.txt": "/my-r-app/static/js/2.8f7a7866.chunk.js.LICENSE.txt",
+    "static/media/cardimg1.386eb2f1.jpg": "/my-r-app/static/media/cardimg1.386eb2f1.jpg",
+    "static/media/cardimg2.1e1f6078.jpg": "/my-r-app/static/media/cardimg2.1e1f6078.jpg",
+    "static/media/cardimg3.545da239.jpg": "/my-r-app/static/media/cardimg3.545da239.jpg",
+    "static/media/cox.1824a95c.jpg": "/my-r-app/static/media/cox.1824a95c.jpg",
+    "static/media/i2.a64f43d8.JPG": "/my-r-app/static/media/i2.a64f43d8.JPG",
+    "static/media/i3.f69f9244.JPG": "/my-r-app/static/media/i3.f69f9244.JPG",
+    "static/media/App.css": "/my-r-app/static/media/mw1.86968f90.jpg",
+    "static/media/mw2.f5269d2d.jpg": "/my-r-app/static/media/mw2.f5269d2d.jpg",
+    "static/media/mw3.9ab130d9.jpg": "/my-r-app/static/media/mw3.9ab130d9.jpg",
+    "static/media/mw4.b254055f.jpg": "/my-r-app/static/media/mw4.b254055f.jpg",
+    "static/media/mw5.96454023.jpg": "/my-r-app/static/media/mw5.96454023.jpg",
+    "static/media/mw6.aa9e0c0d.jpg": "/my-r-app/static/media/mw6.aa9e0c0d.jpg",
+    "static/media/slick-theme.css": "/my-r-app/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d1cf2ec.js",
+    "static/css/2.a3e791ed.chunk.css",
+    "static/js/2.8f7a7866.chunk.js",
+    "static/css/main.da93b759.chunk.css",
+    "static/js/main.a90b6bba.chunk.js"
+  ]
+}
