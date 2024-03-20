@@ -2,7 +2,7 @@ import { Tabs, Tab } from 'react-bootstrap'
 import Contact from './Contact'
 import Home from './Home'
 import Profile from './Profile'
-import cox from '../images/cox.jpg'
+import cox from '../images/me.png'
 
 function Tabb() {
   return (

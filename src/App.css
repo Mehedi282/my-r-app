@@ -1,7 +1,9 @@
 .App {
   text-align: center;
   color: rgb(255, 250, 250);
-  background-color: #000000;
+  background-color: #101010;
+  overflow-x: hidden;
+  overflow-y: hidden ;
 }
 
 #caption{
@@ -111,8 +113,11 @@ a.social:hover {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 #nlink{
-  color: rgb(252, 215, 6);
+  margin-left: 8px;
+  font-size: larger;
+  color: bisque;
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  font-weight: bold;
 }
 #link:hover{
   transform: scale(2,3);
@@ -141,12 +146,17 @@ a.social:hover {
   float: left;
   
   }
+
+  #img{
+  height: 40vw;
+}
   @media screen and (max-width:700px){
     #cox{
-      margin-top: 0px;
+      /* margin-top: 0px;
       height: inherit;
       width: 0%;
-      position: absolute;
+      position: absolute; */
+      display: none;
   
     }
    
@@ -158,11 +168,7 @@ a.social:hover {
   height: 100%;
   background-color: blue;
 }
-#img{
-  width:60%;
-  height: 600px;
-  border-radius: 10%;
-}
+
 #overlay {
   position: absolute;
   bottom: 100%;
@@ -289,6 +295,7 @@ a.social:hover {
 }
 #mywork{
   width: 100%;
+  margin-bottom: 5vw;
 }
 
 #cmebody{

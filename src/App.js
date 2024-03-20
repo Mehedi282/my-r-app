@@ -16,13 +16,13 @@ function App() {
   return (
     <div className="App">
       <Carousell/>
-      <CenterMode/>
-      <Card1/>
-      <Card2/>
+      {/* <CenterMode/> */}
+      {/* <Card1/> */}
+      {/* <Card2/> */}
       <Card11/>
       <Tabb/>
       <Myworks/>
-      <Mypricing/>
+      {/* <Mypricing/> */}
       <Footer/>
       
     </div>

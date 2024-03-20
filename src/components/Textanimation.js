@@ -2,7 +2,7 @@ import React from 'react'
 import styled, { keyframes } from 'styled-components'
 
 export default function Textanime(){
-    const reactarray='I_am_Mehedi'.split("")
+    const reactarray='I_Am_MEHEDI '.split("")
 
     return <Wrapper>{reactarray.map((item, index)=>(
         <span key={index}>{item}</span>   ))}</Wrapper>

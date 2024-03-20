@@ -11,32 +11,9 @@ import React, { useState, useEffect, useRef } from 'react'
 import BIRDS from 'vanta/dist/vanta.birds.min'
 
 function Myworks() {
-  const [vantaEffect, setVantaEffect] = useState(0)
-  const myRef = useRef(null)
-  useEffect(() => {
-    if (!vantaEffect) {
-      setVantaEffect(BIRDS({
-        el: myRef.current,
-        mouseControls: true,
-        touchControls: true,
-        gyroControls: false,
-        minHeight: 200.00,
-        minWidth: 200.00,
-        scale: 1.00,
-        scaleMobile: 1.00,
-        backgroundColor: 0x0,
-        color1: 0x8ffc4,
-        color2: 0xfffe00
-      }))
-
-    }
-    return () => {
-      if (vantaEffect) vantaEffect.destroy()
-    }
-  }, [vantaEffect])
   Aos.init({ duration: 3000 })
   return (
-    <Container id="mywork" ref={myRef}>
+    <Container id="mywork">
       <h1 id="itsblue" data-aos="zoom-in-down" >Portfolio</h1>
       <h3 data-aos="zoom-in-down">My recent works</h3>
       <br />
