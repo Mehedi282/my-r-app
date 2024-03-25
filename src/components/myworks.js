@@ -15,11 +15,8 @@ function Myworks() {
   return (
     <Container id="mywork">
       <h1 id="itsblue" data-aos="zoom-in-down" >Portfolio</h1>
-      <h3 data-aos="zoom-in-down">My recent works</h3>
-      <br />
-      <br />
-      <br />
-      <br />
+      <h3 data-aos="zoom-in-down" style={{ marginBottom: '20px' }}>My recent works</h3>
+
       <Row>
         <Col id="container">
           <Image data-aos="fade-right" src={img1} id="pimg" thumbnail />

@@ -18,6 +18,19 @@
   
   
 }
+
+.dfsfd{
+  display: flex;
+  flex-direction: row;
+}
+.hero-left-div{
+  width: 50%;
+}
+
+.hero-right-div{
+  display: flex;
+  width: 50%;
+}
 @media screen and (max-width:700px){
   #wd{
   height: 200px;
@@ -25,11 +38,29 @@
   position: absolute;
 
   }
+
+  .dfsfd{
+    flex-direction: column-reverse;
+    width: 100%;
+    
+  }
+
+  .hero-left-div{
+    width: 100%;
+  }
+  .hero-right-div{
+    width: 100%;
+  }
+
+ /* .hero-2{
+    height: 70%;
+    width: 80%;
+ } */
  
 }
 
 #smi{
-  margin-top: 200px;
+  margin-top: 20px;
 }
 a.social {
   margin: 0 .5rem;
@@ -62,7 +93,8 @@ a.social:hover {
   transform: translateY(-2px);
 }
 #progress{
-  margin: 5%;
+  margin: "5px";
+  text-align: left;
 }
 
 #slickslider{
@@ -79,6 +111,7 @@ a.social:hover {
 
 #about{
   padding: 5%;
+  margin-top: 50px;
 }
 
 
@@ -148,7 +181,8 @@ a.social:hover {
   }
 
   #img{
-  height: 40vw;
+  height: auto;
+  max-width: 100%;
 }
   @media screen and (max-width:700px){
     #cox{
@@ -255,7 +289,7 @@ a.social:hover {
   font-size: 50px;
 }
 #slickslide{
-  background-color: #000000;
+  background-color: #101010;
 }
 #icon{
   padding: 5%;
@@ -314,4 +348,12 @@ a.social:hover {
 }
 .text-muted{
   text-align: center;
+}
+
+
+@media screen and (max-width:700px){
+  #mywork{
+    margin-top: 100px;
+  }
+ 
 }

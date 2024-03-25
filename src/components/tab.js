@@ -6,7 +6,7 @@ import cox from '../images/me.png'
 
 function Tabb() {
   return (
-    <div >
+    <div>
       <div id="cox">
         <img data-aos="fade-right" src={cox} id="img"></img>
         <div id="overlay">
@@ -21,11 +21,11 @@ function Tabb() {
           <Tab eventKey="profile" title="Skills">
             <Profile />
           </Tab>
-          <Tab eventKey="contact" title="Experiences">
+          {/* <Tab eventKey="contact" title="Experiences">
             <Contact />
-          </Tab>
+          </Tab> */}
         </Tabs>
-      </div><br/><br/><br/><br/>
+      </div>
     </div>
   )
 }
