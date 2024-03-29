@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-r-app/static/css/main.b011596f.css",
-    "main.js": "/my-r-app/static/js/main.c5dd6acf.js",
+    "main.css": "/my-r-app/static/css/main.cb4685bc.css",
+    "main.js": "/my-r-app/static/js/main.1e8b253b.js",
     "static/js/453.45c1065d.chunk.js": "/my-r-app/static/js/453.45c1065d.chunk.js",
     "static/media/me.png": "/my-r-app/static/media/me.762cab7624d2297fa7d5.png",
     "static/media/mw3.jpg": "/my-r-app/static/media/mw3.9ab130d9f1f0f31946a1.jpg",
@@ -19,12 +19,12 @@
     "static/media/slick.ttf": "/my-r-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my-r-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-r-app/index.html",
-    "main.b011596f.css.map": "/my-r-app/static/css/main.b011596f.css.map",
-    "main.c5dd6acf.js.map": "/my-r-app/static/js/main.c5dd6acf.js.map",
+    "main.cb4685bc.css.map": "/my-r-app/static/css/main.cb4685bc.css.map",
+    "main.1e8b253b.js.map": "/my-r-app/static/js/main.1e8b253b.js.map",
     "453.45c1065d.chunk.js.map": "/my-r-app/static/js/453.45c1065d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b011596f.css",
-    "static/js/main.c5dd6acf.js"
+    "static/css/main.cb4685bc.css",
+    "static/js/main.1e8b253b.js"
   ]
 }
