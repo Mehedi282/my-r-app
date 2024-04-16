@@ -181,7 +181,7 @@ a.social:hover {
   }
 
   #img{
-  height: auto;
+  height: 80vh;
   max-width: 100%;
 }
   @media screen and (max-width:700px){
@@ -191,7 +191,12 @@ a.social:hover {
       width: 0%;
       position: absolute; */
       display: none;
-  
+    }
+
+    .card-row{
+      display: flex;
+      flex-direction: column;
+      gap:30px;
     }
    
   }
@@ -240,13 +245,13 @@ a.social:hover {
   height: 600px;
 }
 #pimg{
-  height:300px;
-  width: 250px;
+  height: fit-content;
+  width: 400px;
   margin-top: 75px;
 }
 #pimgl{
-  height:450px;
-  width: 350px;
+  height:400px;
+  width: fit-content;
   
 }
 #container {
@@ -264,8 +269,8 @@ a.social:hover {
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
 }
 
 #container:hover #overlayp {
@@ -276,14 +281,16 @@ a.social:hover {
 
 #textp {
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 40%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: center;
+  text-align: left;
+  padding: 5px;
+
 }
 #price{
   font-size: 50px;
@@ -329,7 +336,8 @@ a.social:hover {
 }
 #mywork{
   width: 100%;
-  margin-bottom: 5vw;
+  margin-bottom: 7vw;
+  margin-top: 60px;
 }
 
 #cmebody{
