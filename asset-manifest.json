@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/my-r-app/static/css/main.cb4685bc.css",
-    "main.js": "/my-r-app/static/js/main.1e8b253b.js",
+    "main.css": "/my-r-app/static/css/main.944710bb.css",
+    "main.js": "/my-r-app/static/js/main.9b6b9395.js",
     "static/js/453.45c1065d.chunk.js": "/my-r-app/static/js/453.45c1065d.chunk.js",
     "static/media/me.png": "/my-r-app/static/media/me.762cab7624d2297fa7d5.png",
-    "static/media/mw3.jpg": "/my-r-app/static/media/mw3.9ab130d9f1f0f31946a1.jpg",
+    "static/media/Social_app.png": "/my-r-app/static/media/Social_app.1f8ea633aff78ff2394b.png",
     "static/media/mw1.jpg": "/my-r-app/static/media/mw1.86968f90f1ea492c264e.jpg",
-    "static/media/mw5.jpg": "/my-r-app/static/media/mw5.964540233f29a43cfed4.jpg",
+    "static/media/fapp.png": "/my-r-app/static/media/fapp.90b63c3a6b1a86f469a4.png",
     "static/media/cardimg2.jpg": "/my-r-app/static/media/cardimg2.1e1f607851e2628dc035.jpg",
+    "static/media/Screenshot 2024-04-14 215332.png": "/my-r-app/static/media/Screenshot 2024-04-14 215332.d7cbca69b9aa1bca5386.png",
     "static/media/cardimg1.jpg": "/my-r-app/static/media/cardimg1.386eb2f164f7971986a9.jpg",
     "static/media/cardimg3.jpg": "/my-r-app/static/media/cardimg3.545da239ecde6b2f634a.jpg",
-    "static/media/mw4.jpg": "/my-r-app/static/media/mw4.b254055f32eced8fb951.jpg",
-    "static/media/mw6.jpg": "/my-r-app/static/media/mw6.aa9e0c0d9a6748f8b807.jpg",
+    "static/media/Screenshot 2024-04-14 200157.png": "/my-r-app/static/media/Screenshot 2024-04-14 200157.1b7eb929c5a43a4a59b3.png",
+    "static/media/hospital-management-system.jpg": "/my-r-app/static/media/hospital-management-system.a59bc04f027fd07d39c4.jpg",
     "static/media/logo.png": "/my-r-app/static/media/logo.d7703a7176cfb41464fe.png",
-    "static/media/mw2.jpg": "/my-r-app/static/media/mw2.f5269d2d8e334e024a9a.jpg",
     "static/media/slick.svg": "/my-r-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/my-r-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/my-r-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/my-r-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/my-r-app/index.html",
-    "main.cb4685bc.css.map": "/my-r-app/static/css/main.cb4685bc.css.map",
-    "main.1e8b253b.js.map": "/my-r-app/static/js/main.1e8b253b.js.map",
+    "main.944710bb.css.map": "/my-r-app/static/css/main.944710bb.css.map",
+    "main.9b6b9395.js.map": "/my-r-app/static/js/main.9b6b9395.js.map",
     "453.45c1065d.chunk.js.map": "/my-r-app/static/js/453.45c1065d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb4685bc.css",
-    "static/js/main.1e8b253b.js"
+    "static/css/main.944710bb.css",
+    "static/js/main.9b6b9395.js"
   ]
 }
